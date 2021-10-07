@@ -49,8 +49,8 @@ left:3vw;
 }
   #loginbut{
     position:absolute;
-    bottom: 3vh;
-    left: 15px;
+    bottom: 20vh;
+    left: 3vw;
     background-color: rgb(100, 172, 227);
 
   }
@@ -61,21 +61,30 @@ left:3vw;
   }
 #or{
   position: absolute;
-  top: 31vh;
+  bottom: 15vh;
   color: rgba(129, 129, 130 0.2);
   size: 5em;
 }
 
 #face{
   position: absolute;
-  top:35vh;
+  bottom:10vh;
   font-size:1.3em;
 }
 #fblogo{
   height: 0.8em;
   width: 0.8em;
 }
+#forgotPass{
+  position: absolute;
+  left:15vh;
+  font
+}
 #noAccount{
   position: absolute;
+  bottom:-15vh;
+ right:-1;
+  height:10vh;
+  width: 25vw;
   border: 2px solid rgb(200, 201, 204);
 }
