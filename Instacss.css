@@ -6,6 +6,10 @@
 body{
   background-color: var(--col);
 }
+a{
+  text-decoration: none;
+  color:black;
+}
 
 #login{
   position: absolute;
@@ -63,7 +67,7 @@ left:3vw;
   position: absolute;
   bottom: 15vh;
   color: rgba(129, 129, 130 0.2);
-  size: 5em;
+  size: 10px;
 }
 
 #face{
@@ -82,9 +86,12 @@ left:3vw;
 }
 #noAccount{
   position: absolute;
-  bottom:-15vh;
+  bottom:-12vh;
  right:-1;
   height:10vh;
   width: 25vw;
   border: 2px solid rgb(200, 201, 204);
+}
+.sign_up{
+  
 }
