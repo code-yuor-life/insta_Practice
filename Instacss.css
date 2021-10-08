@@ -65,33 +65,34 @@ left:3vw;
   }
 #or{
   position: absolute;
-  bottom: 15vh;
+  bottom: 13vh;
   color: rgba(129, 129, 130 0.2);
   size: 10px;
 }
 
 #face{
   position: absolute;
-  bottom:10vh;
+  bottom:8vh;
   font-size:1.3em;
 }
 #fblogo{
   height: 0.8em;
   width: 0.8em;
 }
-#forgotPass{
+#forgotPas{
   position: absolute;
-  left:15vh;
-  font
+  bottom: 5vh;
+  left: 15vh;
 }
 #noAccount{
   position: absolute;
   bottom:-12vh;
- right:-1;
+  right:-1;
   height:10vh;
   width: 25vw;
   border: 2px solid rgb(200, 201, 204);
 }
 .sign_up{
-  
+  text-align: center;
+  font: 1.1vw arial, sanserif;
 }
